@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "fr.mdales.raymondelibrairy"
+    },
+    "jhipsterVersion": "5.4.1",
+    "applicationType": "monolith",
+    "baseName": "la_librairie_de_raymonde",
+    "packageName": "fr.mdales.raymondelibrairy",
+    "packageFolder": "fr/mdales/raymondelibrairy",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTM5MzE5NzA2MmM4ODk1ZmFhYTRkOTQ2NWM2ZmM5MjI0MzQ3MGMzZDA0MjI5NjgwNWFhYjYyMzA2MzQyMGUyODI4OTYwNGYwOGEwNmI4OGE3YTdhYTMzMjRjN2M5MTMxNGFjZDljYzNiYTJkNjYyZWFmMGI4NTU2Y2VhY2QxYjA=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}
